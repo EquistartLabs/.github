@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to Equistart Labs</h1>
-<h3 align="center">We believe in Equal Opportunities.</h3>
+<h3 align="center">Building Next Gen Organizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=equistartlabs&label=Profile%20views&color=0e75b6&style=flat" alt="equistartlabs" /> </p>
 
