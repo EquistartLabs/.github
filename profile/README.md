@@ -42,9 +42,9 @@ DAO's vs Traditional Organisations
 
 📱 Head over to Google Playstore to checkout our [prototype v0](https://play.google.com/store/apps/details?id=com.app.equistart). 
 
-📺 #### Demo App (Equistart_v1) -> [APK](https://drive.google.com/file/d/1LvkUhvC86YYecpzMNLLasAQ79MGVRocc/view?usp=sharing)
+📺 Demo App (Equistart_v1) -> [APK](https://drive.google.com/file/d/1LvkUhvC86YYecpzMNLLasAQ79MGVRocc/view?usp=sharing)
 
-🫧 #### How to use our prototype DApp (v1) -> [Youtube](https://youtu.be/oBbx7qXQLxY)
+🫧 How to use our prototype DApp (v1) -> [Youtube](https://youtu.be/oBbx7qXQLxY)
 
 
 ✍️Contribution guidelines - coming soon!
