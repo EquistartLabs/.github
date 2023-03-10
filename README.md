@@ -1,2 +1,2 @@
 # .github
-Decentralising Equity
+DAO Tools Suite
