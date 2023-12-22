@@ -13,6 +13,7 @@
 
 - 💬 Ask us about **Decentralised Autonomous Organisations (DAOs)**
 
+- ⬜️ [**Whitepaper**](https://docs.google.com/document/d/1Lx1gxT-PVs6VSOFPRhlbBIfAtP_mDldRDkFwWjS_TMU/edit?usp=sharing) (Under Development)
 
 ## 🧪 Project Description
 Equistart - The DAO Suite aims at creating a full stack DAO suite for a community to create their Decentralised Autonomous Organization with no code and mobile support. Creating a DAO is a tedious task with no single application providing an end-to-end solution and Information. With our dapp, users can easily mint their tokens, raise funds by selling parts of tokens, manage the raised funds (Treasury Management/ AMM), and finally Govern the project bound by tokens in a decentralized and autonomous fashion.
